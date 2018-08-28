@@ -148,4 +148,3 @@ IMAGEUTILS_METHOD(convertRGB565ToYUV420SP)(
     env->ReleaseByteArrayElements(output, o, 0);
 }
 
-extern "C"
